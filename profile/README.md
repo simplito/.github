@@ -5,4 +5,4 @@ These tools facilitate secure transfer and storage of messages, data, and real-t
 
 - Learn how to use PrivMX with our [docs](https://docs.privmx.cloud/).
 - Explore [example apps](https://github.com/simplito/privmx-endpoint-examples-js) built using PrivMX.
-- Follow us on [Twitter/X](https://x.com/privmxsoftware) for updates.
+- Follow us on [X](https://x.com/privmxsoftware) for updates.
