@@ -1,5 +1,4 @@
-![github-simplito-bar](https://github.com/user-attachments/assets/59e490bf-3923-454d-9106-fa932ff5f0b7)
-
+![bar-github](https://github.com/user-attachments/assets/74ae031d-b1fa-4ebe-a28c-05df97e47411)
 
 ## Creative Software R&D Company founded in 2008, developing both in-house solutions and custom projects for global clients.
 
