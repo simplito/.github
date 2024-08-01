@@ -1,4 +1,5 @@
-![belkanaGithub](https://github.com/user-attachments/assets/89c365b2-ef49-4a41-974d-3c92dc5ecaa3)
+![github-simplito-bar](https://github.com/user-attachments/assets/59e490bf-3923-454d-9106-fa932ff5f0b7)
+
 
 ## Creative Software R&D Company founded in 2008, developing both in-house solutions and custom projects for global clients.
 
