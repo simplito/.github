@@ -1,6 +1,6 @@
 ![bar-github](https://github.com/user-attachments/assets/74ae031d-b1fa-4ebe-a28c-05df97e47411)
 
-## SIMPLITO  is a creative Software R&D Company founded in 2008, developing both in-house solutions and custom projects for global clients.
+## SIMPLITO is a creative Software R&D Company founded in 2008, developing both in-house solutions and custom projects for global clients.
 
 Simplito provides tools, including libraries and APIs, that enable building or expanding applications for diverse use cases. We focus mainly on dev-friendly toolkits for implementing cryptography, using Erlang, PHP, JavaScript, Java, Swift and more.
 
