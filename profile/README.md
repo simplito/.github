@@ -2,7 +2,7 @@
 
 ## SIMPLITO, chasing the digital rabbit since 2008
 
-Here we publish and maintain some of our tools and applications that may seem potentially interesting to the community. Browse our repositories - we look forward to your feedback!
+We publish and maintain some of our tools and applications of potential community interest here. Browse our repositories - we look forward to your feedback!
 
 ## PrivMX Platform
 
