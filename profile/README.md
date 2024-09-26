@@ -6,7 +6,7 @@ We publish and maintain some of our tools and applications of potential communit
 
 ## PrivMX Platform
 
-Libraries, wrappers and plugins that enable building or expanding communication apps with custom end-to-end encrypted channels. Although the project is currently in early beta, invitation-only stage ([follow us for updates!](https://x.com/privmxsoftware)), we provide you with some first public repos: [Chatee Android](https://github.com/simplito/privmx-chatee-android), [Chatee Web](https://github.com/simplito/privmx-chatee), [more JavaScript Examples](https://github.com/simplito/privmx-endpoint-examples-js).
+Libraries, wrappers and plugins that enable building or expanding communication apps with custom end-to-end encrypted channels. Although the project is currently in early beta, invitation-only stage ([follow us for updates!](https://privmx.cloud)), we provide you with some first public repos: [Chatee Android](https://github.com/simplito/privmx-chatee-android), [Chatee Web](https://github.com/simplito/privmx-chatee), [more JavaScript Examples](https://github.com/simplito/privmx-endpoint-examples-js).
 
 ## Erlang tools
 [**Customizable Erlang native ECIES public-key cryptography library**](https://github.com/simplito/ecies-erl) --- [Erlang wrapper for unix libcrypt library](https://github.com/simplito/crypt-erl) --- [Simple server-side U2F library for Erlang](https://github.com/simplito/u2f-erl)
