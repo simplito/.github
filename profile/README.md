@@ -7,6 +7,9 @@ We publish and maintain some of our tools and applications of potential communit
 ## PrivMX Platform
 
 Libraries, wrappers and plugins that enable building or expanding communication apps with custom end-to-end encrypted channels. Visit [PrivMX Docs](https://docs.privmx.dev/) to learn more.
+- [PrivMX Bridge](https://github.com/simplito/privmx-bridge): Zero-knowledge server for secure storage and transfer of E2E encrypted data.
+- [PrivMX Endpoint](https://github.com/simplito/privmx-endpoint): Library written in C++ allowing applications to build E2EE communication channels.
+- [Project Map](https://docs.privmx.dev/docs/start/project-map): Reference for all GitHub repositories, projects, and wrappers for working with PrivMX.
 
 ## Erlang tools
 [**Customizable Erlang native ECIES public-key cryptography library**](https://github.com/simplito/ecies-erl) --- [Erlang wrapper for unix libcrypt library](https://github.com/simplito/crypt-erl) --- [Simple server-side U2F library for Erlang](https://github.com/simplito/u2f-erl)
